@@ -1,5 +1,7 @@
 # MIPS Processor in C
 
+![License][License] ![RPs][RPs]
+
 Another version of instruction is available at [Craft](https://www.craft.do/s/FpLeUcZV9xNpvJ) (same to this `README.md`). 
 
 ## Overview
@@ -168,3 +170,6 @@ Register: 0 0 0 0 0 0 0 0 25 50 0 0 0 0 0 0 25 50 0 0 0 0 0 0 0 0 0 0 0 32 0 0
 1. Rensselaer Polytechnic Institute, Fall 2021, CSCI 2500 Computer Organization by professor Konstantin Kuzmin, *MIPS Processor in C*. 
 2. *Computer Organization and Design, 5th edition* by David A. Patterson and John L. Hennessy, Chapter 4.4 A Simple Implementation Scheme.
 3. Rochester Institute of Technology, EECC 550 Computer Organization by Dr. Muhammad Shaaban, *Adding Support for jal to Single Cycle Datapath* [[link](http://meseec.ce.rit.edu/eecc550-winter2005/550-chapter5-exercises.pdf)]
+
+[License]: https://img.shields.io/badge/License-MIT-yellow.svg
+[RPs]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
